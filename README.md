@@ -1,4 +1,4 @@
-# VELXT — Beyond Vision
+# VELXT - Beyond Vision
 
 Futuristic visuals & motion studio  
 Design · Web · Creative experiments  

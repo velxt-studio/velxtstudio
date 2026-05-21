@@ -1,4 +1,4 @@
-<img width="1911" height="992" alt="image" src="https://github.com/user-attachments/assets/4768ece1-ecbe-41a8-ad9c-7f882367066c" /># VELXT - Beyond Vision
+# VELXT - Beyond Vision
 
 ✨ Futuristic visuals & motion studio  
 🤖 AI‑driven design & motion branding  

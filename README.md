@@ -21,4 +21,4 @@ We merge AI with creativity to craft futuristic visuals, motion branding, and di
 
 ## Philosophy
 VELXT is not just design — it’s a vision.  
-We stand at the intersection of art and technology, creating experiences that feel alive, futuristic, and 
+We stand at the intersection of art and technology, creating experiences that feel alive, futuristic,  and timeless.  

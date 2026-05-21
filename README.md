@@ -4,7 +4,7 @@
 🤖 AI‑driven design & motion branding  
 
 ## About
-**VELXT** = *Visual Experience Layer for Extreme Technology*  
+**VELXT** = *Visual Experience Layer for eXtreme Technology*  
 
 Our mission is simple: go beyond ordinary design.  
 We merge AI with creativity to craft futuristic visuals, motion branding, and digital experiences that inspire.  

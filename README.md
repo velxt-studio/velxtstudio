@@ -1,4 +1,4 @@
-<img src="https://github.com/velxt-studio/velxt-studio/blob/main/velxt-banner.png" width="100%" alt="VELXT Banner" />
+<img src="https://github.com/velxtstudio/velxt-studio/blob/main/velxt-banner.png" width="100%" alt="VELXT Banner" />
 # VELXT - Beyond Vision
 
 ✨ Futuristic visuals & motion studio  

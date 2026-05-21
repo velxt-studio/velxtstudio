@@ -24,3 +24,5 @@ We merge AI with creativity to craft futuristic visuals, motion branding, and di
 ## Philosophy
 VELXT is not just design — it’s a vision.  
 We stand at the intersection of art and technology, creating experiences that feel alive, futuristic,  and timeless.  
+
+![Powered by VELXT](https://img.shields.io/badge/Powered%20by-VELXT-black?style=for-the-badge)

@@ -1,17 +1,24 @@
-# VELXT - Beyond Vision
+<img width="1911" height="992" alt="image" src="https://github.com/user-attachments/assets/4768ece1-ecbe-41a8-ad9c-7f882367066c" /># VELXT - Beyond Vision
 
-Futuristic visuals & motion studio  
-Design · Web · Creative experiments  
+✨ Futuristic visuals & motion studio  
+🤖 AI‑driven design & motion branding  
 
-🌐 Blog: [velxtstudio.blogspot.com](https://velxtstudio.blogspot.com)  
-📧 Contact: velxtstudio@gmail.com  
-📱 Instagram: [@velxt.studio](https://instagram.com/velxt.studio)  
-🎵 TikTok: [@velxt.studio](https://www.tiktok.com/@velxt.studio)  
-🐦 Twitter: [@velxtstudio](https://twitter.com/velxtstudio)  
-💻 GitHub Projects: [github.com/velxtstudio](https://github.com/velxtstudio)  
-🎙 Discord: [VELXT Community](https://discord.gg/uzCH7GD5g)  
-
----
-
+## About
 **VELXT** = *Visual Experience Layer for Extreme Technology*  
+
 Our mission is simple: go beyond ordinary design.  
+We merge AI with creativity to craft futuristic visuals, motion branding, and digital experiences that inspire.  
+
+## Connect
+🌐 [Website](https://velxt.studio)  
+📸 [Instagram](https://www.instagram.com/velxt.studio)  
+🎵 [TikTok](https://www.tiktok.com/@velxt.studio)  
+🐦 [X / Twitter](https://x.com/velxtstudio)  
+💬 [Discord](https://discord.gg/uzCH7GD5g)  
+📝 [Blog](https://velxtstudio.blogspot.com)  
+💻 [GitHub Projects](https://github.com/velxtstudio)  
+📧 Contact: velxtstudio@gmail.com  
+
+## Philosophy
+VELXT is not just design — it’s a vision.  
+We stand at the intersection of art and technology, creating experiences that feel alive, futuristic, and 
